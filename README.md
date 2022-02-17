@@ -12,7 +12,7 @@ in some popular Linux distros.
 
 #### Documentation
 
-> Full documentation is archived at <a href="/dox/html/index.html" target="_blank" rel="noopener noreferrer">[dox/html/index.html]</a> in this project folder.
+> Full documentation is archived at <a href="https://rawcdn.githack.com/anto5710/clstream/1061683968895cefe466ef5c659f1087f27669c1/dox/html/index.html" target="_blank" rel="noopener noreferrer">[dox/html/index.html]</a> in this project folder.
 > For further details & implementations, please refer to it.
 
 #### Funcitonality

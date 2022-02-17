@@ -116,4 +116,11 @@ or
 // ...
 ```
 for individual header files.
+
+
+#### Documentation
+
+Full documentation is archived at [dox/html/index.html](/dox/html/index.html) in this project folder.
+For further details & implementations, please refer to it.
+
 Thank you for reading.

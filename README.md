@@ -10,6 +10,11 @@ It is mainly employed in Unix-like systems (including Mac OS) but hardly support
 this will be of minor issue, but of major advantage, considering full 256-RGB color gradient support
 in some popular Linux distros.
 
+#### Documentation
+
+> Full documentation is archived at <a href="/dox/html/index.html" target="_blank" rel="noopener noreferrer">[dox/html/index.html]</a> in this project folder.
+> For further details & implementations, please refer to it.
+
 #### Funcitonality
 This utility provides 3 main modules in overall, each being: `color_map.h`, `color_stream.h`,
 `color_tag.h`, and one auxiliary string util.
@@ -116,11 +121,5 @@ or
 // ...
 ```
 for individual header files.
-
-
-#### Documentation
-
-Full documentation is archived at [dox/html/index.html](/dox/html/index.html) in this project folder.
-For further details & implementations, please refer to it.
 
 Thank you for reading.
